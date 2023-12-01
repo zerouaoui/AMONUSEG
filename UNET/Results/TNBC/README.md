@@ -16,8 +16,8 @@ So far, the training process of UNET on Monuseg dataset is as follows:
 ### Results using Macenko normalization: 
 
 <p float="left">
-  <img src="Learning_curve_macenko.JPG" width="500" />
-  <img src="dice_curve_macenko.JPG" width="500" /> 
+  <img src="Learning_curve.JPG" width="500" />
+  <img src="dice_curve.JPG" width="500" /> 
 </p>
 
 
