@@ -15,7 +15,7 @@ color normalization of Hematoxylin and Eosin-stained histopathology slides. Our 
 # Proposed Model ED
 
 # Results
-
+![FDfinale (1)](https://github.com/user-attachments/assets/39b98370-04cf-47be-820a-ce8a248fb984)
 
 # Requierement
 
@@ -26,4 +26,5 @@ color normalization of Hematoxylin and Eosin-stained histopathology slides. Our 
 [4] O. Ronneberger et al. U-net: Convolutional networks for biomedical image segmentation. In Medical Image Computing and Computer-Assisted Intervention–MICCAI 2015: 18th International Conference, Munich, Germany, October 5-9, 2015, Proceedings, Part III 18, pages 234–241. Springer, 2015.
 [5] V.  Badrinarayanan, Alex Kendall et al.A deep convolutional encoder-decoder architecture for image segmentation. IEEE transactions on pattern analysis and machine intelligence, 39(12):2481–2495, 2017.  
 [6]Z. He, Mathias Unberathet al.. Transnuseg: A lightweight multi-task transformer for nuclei segmentation. In International Conference on Medical Image Computing and Computer-Assisted Intervention, pages 206–215. Springer, 2023. 
+
 
