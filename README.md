@@ -1,6 +1,18 @@
-# Segmentation-Project
-Recent advancements in machine learning for medical purposes have placed significant emphasis on the automated segmentation of histopathological images. Our hypothesis is based on the idea that the biopsy tissue slides additional hematoxylin and eosin (H&E) stain, along with histological images variations in high-frequency patterns makes them well-suited for extracting features in the spectral domain [1][2]. These features can then be integrated with spatial domain features extracted by taking advantage of the attention map visualization obtained from a self-supervised pre-trained vision transformer (DINO V2) [3][4]. In this study, we introduce TF-Net, an architectural framework that combines frequency domain features extracted using spectral transformation with spatial domain information extracted using vision transformer to enhance the segmentation accuracy of histological images.
+# AMONuSeg: A Histological Dataset for African Multi-Organ Nuclei Semantic Segmentation.
 
+Nuclei semantic segmentation is a key component for advancing machine learning and deep learning applications in digital pathology.
+However, most existing segmentation models are trained and tested on
+high-quality data acquired with expensive equipment, such as whole slide
+scanners, which are not accessible to most pathologists in developing
+countries. These pathologists rely on low-resource data acquired with
+low-precision microscopes, smartphones, or digital cameras, which have
+different characteristics and challenges than high-resource data. Therefore, there is a gap between the state-of-the-art segmentation models
+and the real-world needs of low-resource settings. This work aims to
+bridge this gap by presenting the first fully annotated African multiorgan dataset for histopathology nuclei semantic segmentation acquired
+with a low-precision microscope. We also evaluate state-of-the-art segmentation models, including spectral feature extraction encoder and vision transformer-based models, and stain normalization techniques for
+color normalization of Hematoxylin and Eosin-stained histopathology
+slides. Our results provide important insights for future research on nuclei
+histopathology segmentation with low-resource data.
 # Project 
 * Datasets Used : Crynosef - TNBC - Monuseg and Private African dataset 
 * Models Baselines: UNET - YNET (CNN Blocks) - YNET (FFC Blocks) - DIANTE (Using DINO)
