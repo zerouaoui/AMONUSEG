@@ -1,4 +1,4 @@
-#AMONuSeg: A Histological Dataset for African Multi-Organ Nuclei Semantic Segmentation.
+# AMONuSeg: A Histological Dataset for African Multi-Organ Nuclei Semantic Segmentation.
 
 * 48 H&E histological images with a size of 1280x960 and 250x Magnification Factor.
 * 4 body parts: Breast, Skin, Cervical and Inguinal.
