@@ -23,8 +23,7 @@ color normalization of Hematoxylin and Eosin-stained histopathology slides. Our 
 [1] A. Farshad, et al. Y-net: A spatiospectral dual-encoder network for medical image segmentation. In International Conference on Medical Image Computing and Computer-Assisted Intervention, pages 582–592. Springer, 2022.
 [2] Y. Yeganehet al. Transformers pay attention to convolutions leveraging emerging properties of vits by dual attention-image network. In Proceedings of the IEEE/CVF International Conference on Computer Vision, pages 2304–2315, 2023.
 [3] J. Boschmanet al. The utility of color normalization for ai-based diagnosis of hematoxylin and eosin-stained pathology images. The Journal of Pathology, 256(1):15–24, 2022.
-[4] O. Ronneberger et al.
-. U-net: Convolutional networks for biomedical image segmentation. In Medical Image Computing and Computer-Assisted Intervention–MICCAI 2015: 18th International Conference, Munich, Germany, October 5-9, 2015, Proceedings, Part III 18, pages 234–241. Springer, 2015.
-[5] V.  Badrinarayanan, Alex Kendall et al.A deep convolutional encoder-decoder architecture for image segmentation. IEEE transactions on pattern analysis and machine intelligence, 39(12):2481–2495, 2017.  [
-6]Z. He, Mathias Unberathet al.. Transnuseg: A lightweight multi-task transformer for nuclei segmentation. In International Conference on Medical Image Computing and Computer-Assisted Intervention, pages 206–215. Springer, 2023. 
+[4] O. Ronneberger et al. U-net: Convolutional networks for biomedical image segmentation. In Medical Image Computing and Computer-Assisted Intervention–MICCAI 2015: 18th International Conference, Munich, Germany, October 5-9, 2015, Proceedings, Part III 18, pages 234–241. Springer, 2015.
+[5] V.  Badrinarayanan, Alex Kendall et al.A deep convolutional encoder-decoder architecture for image segmentation. IEEE transactions on pattern analysis and machine intelligence, 39(12):2481–2495, 2017.  
+[6]Z. He, Mathias Unberathet al.. Transnuseg: A lightweight multi-task transformer for nuclei segmentation. In International Conference on Medical Image Computing and Computer-Assisted Intervention, pages 206–215. Springer, 2023. 
 
