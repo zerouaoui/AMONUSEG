@@ -30,5 +30,6 @@ The best performance achieved a higher average Dice score of 0.830 using both Y-
 [4] O. Ronneberger et al. U-net: Convolutional networks for biomedical image segmentation. In Medical Image Computing and Computer-Assisted Intervention–MICCAI 2015: 18th International Conference, Munich, Germany, October 5-9, 2015, Proceedings, Part III 18, pages 234–241. Springer, 2015.
 [5] V.  Badrinarayanan, Alex Kendall et al.A deep convolutional encoder-decoder architecture for image segmentation. IEEE transactions on pattern analysis and machine intelligence, 39(12):2481–2495, 2017.  
 [6]Z. He, Mathias Unberathet al.. Transnuseg: A lightweight multi-task transformer for nuclei segmentation. In International Conference on Medical Image Computing and Computer-Assisted Intervention, pages 206–215. Springer, 2023. 
+[7] Starmans, Martijn Pieter Anton, et Apostolia Tsirikoglou. « MICCAI 2024 AFRICAI Imaging Repository White Paper ». Zenodo, 14 mars 2024. https://doi.org/10.5281/zenodo.10816769.
 
 
