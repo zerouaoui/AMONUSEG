@@ -13,9 +13,13 @@ color normalization of Hematoxylin and Eosin-stained histopathology slides. Our 
 * Proposed Model: FD-Net 
 
 # Proposed Model ED
+![FDfinale (1)](https://github.com/user-attachments/assets/39b98370-04cf-47be-820a-ce8a248fb984)
 
 # Results
-![FDfinale (1)](https://github.com/user-attachments/assets/39b98370-04cf-47be-820a-ce8a248fb984)
+The average Dice score of the evaluated segmentation models on the Original and pre-processed AMONuSeg dataset ![image](https://github.com/user-attachments/assets/5244adcf-f645-4660-9a68-b5ea40db8aa4)
+![image](https://github.com/user-attachments/assets/a2f3ee63-414b-4ef6-b3de-dc92011cb35c)
+
+The best performance achieved a higher average Dice score of 0.830 using both Y-Net with the original AMONuSeg and FD-Net with the StainGAN pre-processed dataset.
 
 # Requierement
 
