@@ -4,8 +4,7 @@
 * 4 body parts: Breast, Skin, Cervical and Inguinal.
 * 19,036 annotated nuclei.
 * Collected using digital microscopic camera (MA 500 AmScope Matlab ®, USA) .
-
-
+* Two masks: one set of masks validated by expert one and another set validates by expert 2
 # Process 
 Two trained annotators performed manual annotation following the steps bellow:
 
