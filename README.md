@@ -15,7 +15,6 @@ The average Dice score of the evaluated segmentation models on the Original and 
 ![image](https://github.com/user-attachments/assets/a2f3ee63-414b-4ef6-b3de-dc92011cb35c)
 
 The best performance achieved a higher average Dice score of 0.830, using both Y-Net on the original AMONuSeg dataset and FD-Net on the StainGAN preprocessed dataset.
-# Requierement
 
 ## References
 [1] A. Farshad, et al. Y-net: A spatiospectral dual-encoder network for medical image segmentation. In International Conference on Medical Image Computing and Computer-Assisted Intervention, pages 582–592. Springer, 2022.
