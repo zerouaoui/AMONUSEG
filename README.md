@@ -5,7 +5,7 @@ This repository contains the AMONuSeg dataset, including original images and exp
 For a visual overview of the dataset, annotation differences, results, paper, poster, and code, please visit the project website:
 https://zerouaoui.github.io/MICCAIAmonuseg.io/
 
-#Abstract:
+# Abstract:
 
 Nuclei semantic segmentation is a key component for advancing machine learning and deep learning applications in digital pathology. However, most existing segmentation models are trained and tested on high-quality data acquired with expensive equipment, such as whole-slide scanners, which are not accessible to most pathologists in developing countries. These pathologists often rely on low-resource data acquired with low-precision microscopes, smartphones, or digital cameras, which have different characteristics and challenges compared to high-resource data. Therefore, there is a gap between state-of-the-art segmentation models and the real-world needs of low-resource settings. This work aims to bridge this gap by presenting the first fully annotated African multi-organ dataset for histopathology nuclei semantic segmentation acquired with a low-precision microscope. We also evaluate state-of-the-art segmentation models, including spectral feature extraction encoders and vision transformer-based models, as well as stain normalization techniques for color normalization of Hematoxylin and Eosin-stained histopathology slides. Our results provide important insights for future research on nuclei segmentation in histopathology using low-resource data.
 
