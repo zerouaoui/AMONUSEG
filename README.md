@@ -1,4 +1,4 @@
-# AAMONuSeg: A Histological Dataset for African Multi-Organ Nuclei Semantic Segmentation
+# AMONuSeg: A Histological Dataset for African Multi-Organ Nuclei Semantic Segmentation
 🌐 **Project website:** https://zerouaoui.github.io/MICCAIAmonuseg.io/
 
 This repository contains the AMONuSeg dataset, including original images and expert annotations.
